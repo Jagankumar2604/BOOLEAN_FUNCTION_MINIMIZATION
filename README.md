@@ -1,4 +1,5 @@
 **AIM:**
+
 To implement the given logic function verify its operation in Quartus using Verilog programming.
 
 F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
@@ -19,15 +20,15 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Procedure**
 
-Type the program in Quartus software.
+ 1.type the program in Quartus software.
 
-Compile and run the program.
+ 2.Compile and run the program.
 
-Generate the RTL schematic and save the logic diagram.
+ 3.Generate the RTL schematic and save the logic diagram.
 
-Create nodes for inputs and outputs to generate the timing diagram.
+ 4.Create nodes for inputs and outputs to generate the timing diagram.
 
-For different input combinations generate the timing diagram.
+ 5.For different input combinations generate the timing diagram.
 
 **Program:**
 
@@ -55,9 +56,9 @@ endmodule
 ## Logic symbol & Truthtable:
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/a9ccb75e-db7b-490e-8b69-10f820e6bff4)
 
+**RTL realization**
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
 
-**RTL realization**
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/5ffd7097-c99c-4ef3-a82d-0108e72a8b9e)
 
 
