@@ -58,9 +58,11 @@ endmodule
 ![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/6835b6c0-9fe5-4f55-8288-53b7d0c42104)
 
 **RTL realization**
+![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/5ffd7097-c99c-4ef3-a82d-0108e72a8b9e)
 
 
 **Output:**
+![image](https://github.com/23004205/BOOLEAN_FUNCTION_MINIMIZATION/assets/138971114/3294f442-723b-4550-ab9c-49ed60325deb)
 
 
 **Result:**
