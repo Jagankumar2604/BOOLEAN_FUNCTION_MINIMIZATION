@@ -56,9 +56,6 @@ assign F1=x1|x2|x3|x4|x5;
 assign F2=x6|x7|x8|x9|x10;
 endmodule
 ```
-**Logic symbol & Truthtable:**
-<img width="805" height="442" alt="image" src="https://github.com/user-attachments/assets/3977c400-0f23-4c25-831f-a0f98aa0fd18" />
-<
 **RTL realization**
 <img width="613" height="781" alt="image" src="https://github.com/user-attachments/assets/88d6b945-fca7-497f-a307-68c1e9a4aea4" />
 <img width="613" height="781" alt="image" src="https://github.com/user-attachments/assets/6978502b-0250-49a7-a836-17405507b1fc" />
@@ -70,7 +67,4 @@ endmodule
 **Result:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
-
-
-Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
